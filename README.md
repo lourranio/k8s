@@ -9,4 +9,6 @@ https://killer.sh/
     </span>
 </div><br>
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=jgpJVI3tDbY)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=KfrZd9YCftU)
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/KfrZd9YCftU" title="CKA Tutorial with Killer.sh (Part 1) | Rawkode Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

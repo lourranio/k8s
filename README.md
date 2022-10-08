@@ -21,9 +21,10 @@ https://killer.sh/
  * 
 
 
-## Kubernetes for the Absolute Beginners - Hands-on Tutorial
+# Kubernetes for the Absolute Beginners - Hands-on Tutorial
 
-###  Setup Kubernetes > References 
+##  Setup Kubernetes 
+### References 
 
 Install and set up the kubectl tool: –
 
@@ -46,3 +47,29 @@ https://kubernetes.io/docs/tutorials/hello-minikube/
 If the minikube installation has been done on the macOS, then to access the URL on the local browser, we need to do a few steps to get the service URL to work. Those steps are covered on this documentation page: –
 
 https://minikube.sigs.k8s.io/docs/handbook/accessing/#using-minikube-service-with-tunnel
+
+
+## Kubernetes Concepts 
+
+### A note about creating Pod
+
+A note about creating Pods
+
+A note about creating pods using kubectl run.
+
+To create a pod from the command line, use the command:
+
+Create an NGINX Pod
+
+```kubectl run nginx --image=nginx```
+
+As of version 1.18, kubectl run (without any arguments such as --generator ) will create a pod instead of a deployment.
+
+To create a deployment using imperative command, use kubectl create:
+
+```kubectl create deployment nginx --image=nginx```
+
+Kubernetes Concepts – https://kubernetes.io/docs/concepts/
+
+Pod Overview- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
+

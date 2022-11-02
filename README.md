@@ -73,3 +73,6 @@ Kubernetes Concepts – https://kubernetes.io/docs/concepts/
 
 Pod Overview- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
 
+## LIVRO descomplicando kubernetes
+
+https://livro.descomplicandokubernetes.com.br/pt/day_one/descomplicando_kubernetes.html#instala%C3%A7%C3%A3o-do-kubectl-no-gnulinux
